@@ -422,7 +422,7 @@ Reach out to Abishek on Slack if you have any questions or get stuck!
 
 > **Important:** This section is the first thing visitors see when they land on your GitHub repo. This is your portfolio—make it professional and complete! Update this before your final submission.
 
-**Student Name:** [Your Name]
+**Student Name:** Erick Lanford
 
 **Dataset:** [Dataset name and source - include a link if from Kaggle]
 

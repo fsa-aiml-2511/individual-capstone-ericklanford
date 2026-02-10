@@ -21,7 +21,7 @@ WHAT YOU NEED TO CUSTOMIZE:
     3. Update the model paths if you changed them
     4. Customize the styling if desired
 
-Author: [Your Name]  # <-- UPDATE THIS!
+Author: Erick Lanford  # <-- UPDATE THIS!
 Dataset: [Your Dataset]  # <-- UPDATE THIS!
 """
 
@@ -121,7 +121,7 @@ st.sidebar.info(
     """
 )
 # TODO: UPDATE YOUR NAME HERE! This shows visitors who built this app.
-st.sidebar.markdown("**Built by:** [YOUR NAME]")
+st.sidebar.markdown("**Built by:** Erick Lanford")
 st.sidebar.markdown("[GitHub Repo](https://github.com/YOUR-USERNAME/YOUR-REPO)")
 
 
@@ -318,9 +318,9 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: gray;'>
-        Built by [YOUR NAME] | Full Stack Academy AI & ML Bootcamp
+        Built by Erick Lanford | Full Stack Academy AI & ML Bootcamp
     </div>
     """,
     unsafe_allow_html=True
 )
-# TODO: Replace [YOUR NAME] above with your actual name!
+# TODO: Replace Erick Lanford above with your actual name!
